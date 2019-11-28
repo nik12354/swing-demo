@@ -2,5 +2,5 @@
 build/
 *.iml
 settings.gradle
-.gradle
+.gradle/
 .idea
